@@ -2,7 +2,7 @@
 
 *{
   font-family: 'Roboto', sans-serif;
-  font-size: 20px;
+  font-size: 18px;
 }
 body{
   display: flex;
@@ -47,7 +47,7 @@ form[type="text"]{
 #result {
   grid-column: 4/5;
   grid-row: 5;
-  color: #232a56;
+  color: #262834;
 }
 
 
@@ -65,7 +65,7 @@ button {
   border-radius: 20px;
   cursor: pointer;
   background: #262834;
-  color: #f3ecec;
+  color: #ffffff;
   font-weight: 500;
 }
 
@@ -77,5 +77,5 @@ button:active {
 }
 
 .highlight {
-  background: #a7c91e;
+  background: #eb9b23;
 }
